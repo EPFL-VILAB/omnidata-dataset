@@ -35,6 +35,10 @@ The full starter dataset will be available to download soon.
 ## Sample Data:
 [Here](https://github.com/Ainaz99/omnidata-sample-data), we provide a sample data from a random building in our **GSO + Replica** dataset split, which is created by scattering [Google Scanned Objects](https://app.ignitionrobotics.org/GoogleResearch/fuel/collections/Google%20Scanned%20Objects) around [Replica](https://github.com/facebookresearch/Replica-Dataset) buildings using the [Habitat](https://github.com/facebookresearch/habitat-sim) environment. This is only a sample scene (with mostly object-centric views) from over 2000 scenes available in the full dataset.
 
+| [Sample Data (GSO+Replica)](https://github.com/Ainaz99/omnidata-sample-data) | 
+| :-------------: |
+| ![](./assets/mesh1.png) 
+
 
 
 ## Data Statistics
