@@ -42,10 +42,15 @@ The full starter dataset will be available to download soon.
 
 
 ## Data Statistics
-| Taskonomy | Replica | GSO+Replica | HM3D | Hypersim |
-| :-------------: |:-------------:|:-------------:|:-------------:|:-------------:|
-| ![](./assets/statistics/camera_pitch/taskonomy_camera_pitch.png) | ![](./assets/statistics/camera_pitch/replica_camera_pitch.png) | ![](./assets/statistics/camera_pitch/gso_camera_pitch.png) | ![](./assets/statistics/camera_pitch/hm3d_camera_pitch.png)  | ![](./assets/statistics/camera_pitch/hypersim_camera_pitch.png) |
-| ![](./assets/statistics/camera_roll/taskonomy_camera_roll.png) | ![](./assets/statistics/camera_roll/replica_camera_roll.png) | ![](./assets/statistics/camera_roll/gso_camera_roll.png) | ![](./assets/statistics/camera_roll/hm3d_camera_roll.png)  | ![](./assets/statistics/camera_roll/hypersim_camera_roll.png) |
+| ![](./assets/statistics/train_test_val) | Taskonomy | Replica | GSO+Replica | HM3D |
+| :-------------: |:-------------:|:-------------:|:-------------:|:-------------:| 
+| Field of View | ![](./assets/statistics/field_of_view/taskonomy_field_of_view.png) | ![](./assets/statistics/field_of_view/replica_field_of_view.png) | ![](./assets/statistics/field_of_view/gso_field_of_view.png) | ![](./assets/statistics/field_of_view/hm3d_field_of_view.png)  |
+| Camera Pitch |![](./assets/statistics/camera_pitch/taskonomy_camera_pitch.png) | ![](./assets/statistics/camera_pitch/replica_camera_pitch.png) | ![](./assets/statistics/camera_pitch/gso_camera_pitch.png) | ![](./assets/statistics/camera_pitch/hm3d_camera_pitch.png)  |
+| Camera Roll | ![](./assets/statistics/camera_roll/taskonomy_camera_roll.png) | ![](./assets/statistics/camera_roll/replica_camera_roll.png) | ![](./assets/statistics/camera_roll/gso_camera_roll.png) | ![](./assets/statistics/camera_roll/hm3d_camera_roll.png)  | 
+| Obliqueness Angle | ![](./assets/statistics/obliqueness_angle/taskonomy_obliqueness_angle.png) | ![](./assets/statistics/obliqueness_angle/replica_obliqueness_angle.png) | ![](./assets/statistics/obliqueness_angle/gso_obliqueness_angle.png) | ![](./assets/statistics/obliqueness_angle/hm3d_obliqueness_angle.png)  |
+| Camera Distance | ![](./assets/statistics/camera_distance/taskonomy_camera_distance.png) | ![](./assets/statistics/camera_distance/replica_camera_distance.png) | ![](./assets/statistics/camera_distance/gso_camera_distance.png) | ![](./assets/statistics/camera_distance/hm3d_camera_distance.png)  |
+| Views per Point | ![](./assets/statistics/views_per_point/taskonomy_views_per_point.png) | ![](./assets/statistics/views_per_point/replica_views_per_point.png) | ![](./assets/statistics/views_per_point/gso_views_per_point.png) | ![](./assets/statistics/views_per_point/hm3d_views_per_point.png)  |
+
 
 ## Citation
 If you find this dataset useful in your research, please cite our paper:
