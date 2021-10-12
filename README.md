@@ -42,6 +42,10 @@ The full starter dataset will be available to download soon.
 
 
 ## Data Statistics
+| Taskonomy | Replica | GSO+Replica | HM3D | Hypersim |
+| :-------------: |:-------------:|:-------------:|:-------------:|:-------------:|
+| ![](./assets/statistics/camera_pitch/taskonomy_camera_pitch.png) | ![](./assets/statistics/camera_pitch/replica_camera_pitch.png) | ![](./assets/statistics/camera_pitch/gso_camera_pitch.png) | ![](./assets/statistics/camera_pitch/hm3d_camera_pitch.png)  | ![](./assets/statistics/camera_pitch/hypersim_camera_pitch.png) |
+| ![](./assets/statistics/camera_roll/taskonomy_camera_roll.png) | ![](./assets/statistics/camera_roll/replica_camera_roll.png) | ![](./assets/statistics/camera_roll/gso_camera_roll.png) | ![](./assets/statistics/camera_roll/hm3d_camera_roll.png)  | ![](./assets/statistics/camera_roll/hypersim_camera_roll.png) |
 
 ## Citation
 If you find this dataset useful in your research, please cite our paper:
