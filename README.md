@@ -39,6 +39,15 @@ The full starter dataset will be available to download soon.
 | :-------------: |
 | ![](./assets/mesh1.png) 
 
+You can download and untar the sample data with the following command:
+
+```bash
+wget https://drive.switch.ch/index.php/s/MkygxW0WLiLKsNz/download
+tar -xf download
+```
+
+Now the sample dataset is available in the folder `omnidata_sample_dataset`.
+
 
 
 ## Data Statistics
